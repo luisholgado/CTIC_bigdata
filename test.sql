@@ -2,3 +2,4 @@
 CREATE TABLE Prod(
 codigo varcha(10)
 )
+agregado por master 29:39
